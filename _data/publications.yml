@@ -1,26 +1,25 @@
 main:
   - title: "Science hierarchography: Hierarchical organization of science literature"
-    authors: <strong>Muhan Gao</strong>, Jash Shah, [Weiqi Wang](https://mighty-weaver.github.io/), [Daniel Khashabi](danielkhashabi.com)
+    authors: <strong>Muhan Gao</strong>, Jash Shah, <a href="https://mighty-weaver.github.io/">Weiqi Wang</a>, <a href="https://danielkhashabi.com">Daniel Khashabi</a>
     conference_short: Arxiv
     pdf: https://arxiv.org/abs/2504.13834
     code: https://github.com/JHU-CLSP/science-hierarchography
     conference: Arxiv, 2025
     image: ./assets/img/teaser-science.png
 
-  - title: "ICL CIPHERS: Quantifying \"Learning\" in In-Context Learning via Substitution Ciphers"
-    authors: [Zhouxiang Fang](https://zhouxiangfang.github.io/), [Aayush Mishra](https://aamixsh.github.io/), <strong>Muhan Gao</strong>, Anqi Liu, [Daniel Khashabi](danielkhashabi.com)
+  - title: "ICL CIPHERS: Quantifying 'Learning' in In-Context Learning via Substitution Ciphers"
+    authors: <a href="https://zhouxiangfang.github.io/">Zhouxiang Fang</a>, <a href="https://aamixsh.github.io/">Aayush Mishra</a>, <strong>Muhan Gao</strong>, Anqi Liu, <a href="https://danielkhashabi.com">Daniel Khashabi</a>
     conference_short: EMNLP
     conference: Empirical Methods in Natural Language Processing <strong>(EMNLP)</strong>, 2025
     pdf: https://arxiv.org/abs/2504.13834
     code: https://github.com/JHU-CLSP/science-hierarchography
     image: ./assets/img/teaser-cipher.png
     
-  - title: "Insights into LLM Long-Context Failures: When Transformers Know but Don’t Tell"
-    authors: <strong>Muhan Gao</strong>, [TaiMing Lu](taiminglu.com), Kuai Yu, Adam Byerly, [Daniel Khashabi](danielkhashabi.com)
+  - title: "Insights into LLM Long-Context Failures: When Transformers Know but Don't Tell"
+    authors: <strong>Muhan Gao</strong>, <a href="https://taiminglu.com">TaiMing Lu</a>, Kuai Yu, Adam Byerly, <a href="https://danielkhashabi.com">Daniel Khashabi</a>
     conference_short: EMNLP
     conference: Empirical Methods in Natural Language Processing <strong>(EMNLP)</strong>, 2024
     pdf: https://aclanthology.org/2024.findings-emnlp.447/
     code: https://github.com/TaiMingLu/know-dont-tell
     bibtex: link_to_bibtex.txt
     image: ./assets/img/teaser-k&t.png
-
