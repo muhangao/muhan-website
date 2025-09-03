@@ -15,9 +15,9 @@ Before coming to Texas A&M, I finished my master degree at Johns Hopkins Univers
 
 ## News
 
-- **[Aug. 2025]** Our paper about [In-context learning ICL CIPHERS: Quantifying "Learning" in In-Context Learning via Substitution Ciphers](https://arxiv.org/abs/2504.19395) is accepted to EMNLP 2025.
+- **[Aug. 2025]** Our paper about In-context learning: [ICL CIPHERS: Quantifying "Learning" in In-Context Learning via Substitution Ciphers](https://arxiv.org/abs/2504.19395) is accepted to EMNLP 2025.
 - **[Apr. 2025]** [Science Hierarchography: Hierarchical Organization of Science Literature](https://arxiv.org/abs/2504.13834) is released on Arxiv!
-- **[Aug. 2024]** Our paper about long-context problem [Insights into LLM Long-Context Failures: When Transformers Know but Don't Tell](https://aclanthology.org/2024.findings-emnlp.447/) is accepted to EMNLP 2024.
+- **[Aug. 2024]** Our paper about long-context problem: [Insights into LLM Long-Context Failures: When Transformers Know but Don't Tell](https://aclanthology.org/2024.findings-emnlp.447/) is accepted to EMNLP 2024.
 
 {% include_relative _includes/publications.md %}
 
