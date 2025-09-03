@@ -2,13 +2,27 @@
 ---
 
 @import "minimal-light";
-@import "{{ site.theme }}";
 
-.authors a {
-    color: inherit;
-    text-decoration: none;
-  }
-  
-  .authors a:hover {
-    text-decoration: underline;
-  }
+.publication-list a,
+.publications a,
+article a,
+.content a {
+  color: inherit !important;
+  text-decoration: none !important;
+}
+
+.publication-list a:hover,
+.publications a:hover,
+article a:hover,
+.content a:hover {
+  text-decoration: underline !important;
+}
+
+h3 + p a {
+  color: inherit !important;
+  text-decoration: none !important;
+}
+
+h3 + p a:hover {
+  text-decoration: underline !important;
+}
