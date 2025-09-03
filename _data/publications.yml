@@ -1,6 +1,6 @@
 main:
   - title: "Science hierarchography: Hierarchical organization of science literature"
-    authors: <strong>Muhan Gao</strong>, Jash Shah, Weiqi Wang, Daniel Khashabi
+    authors: <strong>Muhan Gao</strong>, Jash Shah, [Weiqi Wang](https://mighty-weaver.github.io/), [Daniel Khashabi](danielkhashabi.com)
     conference_short: Arxiv
     pdf: https://arxiv.org/abs/2504.13834
     code: https://github.com/JHU-CLSP/science-hierarchography
@@ -8,7 +8,7 @@ main:
     image: ./assets/img/teaser-science.png
 
   - title: "ICL CIPHERS: Quantifying \"Learning\" in In-Context Learning via Substitution Ciphers"
-    authors: Zhouxiang Fang, Aayush Mishra, <strong>Muhan Gao</strong>, Anqi Liu, Daniel Khashabi
+    authors: [Zhouxiang Fang](https://zhouxiangfang.github.io/), [Aayush Mishra](https://aamixsh.github.io/), <strong>Muhan Gao</strong>, Anqi Liu, [Daniel Khashabi](danielkhashabi.com)
     conference_short: EMNLP
     conference: Empirical Methods in Natural Language Processing <strong>(EMNLP)</strong>, 2025
     pdf: https://arxiv.org/abs/2504.13834
@@ -16,7 +16,7 @@ main:
     image: ./assets/img/teaser-cipher.png
     
   - title: "Insights into LLM Long-Context Failures: When Transformers Know but Don’t Tell"
-    authors: <strong>Muhan Gao</strong>, TaiMing Lu, Kuai Yu, Adam Byerly, Daniel Khashabi
+    authors: <strong>Muhan Gao</strong>, [TaiMing Lu](taiminglu.com), Kuai Yu, Adam Byerly, [Daniel Khashabi](danielkhashabi.com)
     conference_short: EMNLP
     conference: Empirical Methods in Natural Language Processing <strong>(EMNLP)</strong>, 2024
     pdf: https://aclanthology.org/2024.findings-emnlp.447/
