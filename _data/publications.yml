@@ -1,6 +1,6 @@
 main:
   - title: "Science hierarchography: Hierarchical organization of science literature"
-    authors: <strong>Muhan Gao</strong>, Jash Shah, <a href="https://mighty-weaver.github.io/">Weiqi Wang</a>, <a href="https://danielkhashabi.com">Daniel Khashabi</a>
+    authors: <strong>Muhan Gao</strong>, Jash Shah, <a href="https://mighty-weaver.github.io/">Weiqi Wang</a>, <a href="https://khhuang.me/">Kuan-Hao Huang</a>, <a href="https://danielkhashabi.com">Daniel Khashabi</a>
     conference_short: Arxiv
     pdf: https://arxiv.org/abs/2504.13834
     code: https://github.com/JHU-CLSP/science-hierarchography
@@ -11,8 +11,8 @@ main:
     authors: <a href="https://zhouxiangfang.github.io/">Zhouxiang Fang</a>, <a href="https://aamixsh.github.io/">Aayush Mishra</a>, <strong>Muhan Gao</strong>, Anqi Liu, <a href="https://danielkhashabi.com">Daniel Khashabi</a>
     conference_short: EMNLP
     conference: Empirical Methods in Natural Language Processing <strong>(EMNLP)</strong>, 2025
-    pdf: https://arxiv.org/abs/2504.13834
-    code: https://github.com/JHU-CLSP/science-hierarchography
+    pdf: https://arxiv.org/abs/2504.19395
+    code: https://github.com/jhu-CLSP/icl-ciphers
     image: ./assets/img/teaser-cipher.png
     
   - title: "Insights into LLM Long-Context Failures: When Transformers Know but Don't Tell"
