@@ -6,7 +6,7 @@ layout: homepage
 
 I am a first-year PhD student at Texas A&M University, advised by [Kuan-Hao Huang](https://khhuang.me/index.html) in [FLAIR Lab](https://khhuang.me/group.html). 
 
-Before coming to Texas A&M, I finished my master degree at Johns Hopkins University, where I was fortunately advised by [Prof. Daniel Khashabi](https://danielkhashabi.com/) in the [Center for Language and Speech Processing](https://www.clsp.jhu.edu/).
+Before coming to Texas A&M, I finished my master degree at Johns Hopkins University, where I was fortunately advised by Prof.[Daniel Khashabi](https://danielkhashabi.com/) in the [Center for Language and Speech Processing](https://www.clsp.jhu.edu/).
 
 ## Research Interests
 
