@@ -1,4 +1,11 @@
 main:
+  - title: "The First Drop of Ink: Nonlinear Impact of Misleading Information in Long-Context Reasoning"
+    authors: <strong>Muhan Gao</strong>, Zih-Ching Chen, <a href="https://khhuang.me/">Kuan-Hao Huang</a>
+    conference_short: ICML
+    conference: International Conference on Machine Learning <strong>(ICML)</strong>, 2026
+    pdf: https://arxiv.org/abs/2605.10828
+    image: ./assets/img/teaser-ink.png
+
   - title: "Science hierarchography: Hierarchical organization of science literature"
     authors: <strong>Muhan Gao</strong>, Jash Shah, <a href="https://mighty-weaver.github.io/">Weiqi Wang</a>, <a href="https://khhuang.me/">Kuan-Hao Huang</a>, <a href="https://danielkhashabi.com">Daniel Khashabi</a>
     conference_short: Arxiv
