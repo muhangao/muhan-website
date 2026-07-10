@@ -25,7 +25,7 @@ main:
   - title: "Insights into LLM Long-Context Failures: When Transformers Know but Don't Tell"
     authors: <strong>Muhan Gao</strong>, <a href="https://taiminglu.com">TaiMing Lu</a>, Kuai Yu, Adam Byerly, <a href="https://danielkhashabi.com">Daniel Khashabi</a>
     conference_short: EMNLP
-    conference: Empirical Methods in Natural Language Processing <strong>(EMNLP)</strong>, 2024
+    conference: Empirical Methods in Natural Language Processing <strong>(EMNLP)</strong>, 2024, Findings
     pdf: https://aclanthology.org/2024.findings-emnlp.447/
     code: https://github.com/TaiMingLu/know-dont-tell
     bibtex: link_to_bibtex.txt
