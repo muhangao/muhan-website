@@ -6,12 +6,12 @@ main:
     pdf: https://arxiv.org/abs/2605.10828
     image: ./assets/img/teaser-ink.png
 
-  - title: "Science hierarchography: Hierarchical organization of science literature"
+  - title: "From Papers to Panoramas: Building Hierarchies of Scientific Literature at Scale"
     authors: <strong>Muhan Gao</strong>, Jash Shah, <a href="https://mighty-weaver.github.io/">Weiqi Wang</a>, <a href="https://khhuang.me/">Kuan-Hao Huang</a>, <a href="https://danielkhashabi.com">Daniel Khashabi</a>
-    conference_short: Arxiv
+    conference_short: COLM
     pdf: https://arxiv.org/abs/2504.13834
     code: https://github.com/JHU-CLSP/science-hierarchography
-    conference: Arxiv, 2025
+    conference: Conference on Language Modeling <strong>(COLM)</strong>, 2026
     image: ./assets/img/teaser-science.png
 
   - title: "ICL CIPHERS: Quantifying 'Learning' in In-Context Learning via Substitution Ciphers"
