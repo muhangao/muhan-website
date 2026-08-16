@@ -4,6 +4,7 @@ main:
     conference_short: ICML
     conference: International Conference on Machine Learning <strong>(ICML)</strong>, 2026
     pdf: https://arxiv.org/abs/2605.10828
+    data: https://huggingface.co/datasets/lab-flair/qa-dataset-k1000
     image: ./assets/img/teaser-ink.png
 
   - title: "From Papers to Panoramas: Building Hierarchies of Scientific Literature at Scale"
