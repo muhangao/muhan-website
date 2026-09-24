@@ -1,10 +1,12 @@
 main:
-  - title: "The First Drop of Ink: Nonlinear Impact of Misleading Information in Long-Context Reasoning"
+  - title: "The First Drop of Ink: Nonlinear Impact of Distracting Information in Long-Context Reasoning"
     authors: <strong>Muhan Gao</strong>, Zih-Ching Chen, <a href="https://khhuang.me/">Kuan-Hao Huang</a>
     conference_short: ICML
     conference: International Conference on Machine Learning <strong>(ICML)</strong>, 2026
     pdf: https://arxiv.org/abs/2605.10828
     data: https://huggingface.co/datasets/lab-flair/qa-dataset-k1000
+    bibtex: /assets/files/first-drop-of-ink.bib
+    others: '<a href="https://huggingface.co/papers/2605.10828" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">HF Paper</a><div style="font-size:12px;margin-top:4px;">Title shown: <a href="https://arxiv.org/abs/2605.10828v2">arXiv v2 (Aug. 20, 2026)</a>. <a href="https://arxiv.org/abs/2605.10828v1">v1</a> used “Misleading Information”; v2 uses “Distracting Information”.</div>'
     image: ./assets/img/teaser-ink.png
 
   - title: "From Papers to Panoramas: Building Hierarchies of Scientific Literature at Scale"
@@ -29,5 +31,6 @@ main:
     conference: Empirical Methods in Natural Language Processing <strong>(EMNLP)</strong>, 2024, Findings
     pdf: https://aclanthology.org/2024.findings-emnlp.447/
     code: https://github.com/TaiMingLu/know-dont-tell
-    bibtex: link_to_bibtex.txt
+    bibtex: https://aclanthology.org/2024.findings-emnlp.447.bib
+    others: '<a href="https://huggingface.co/papers/2406.14673" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">HF Paper</a><div style="font-size:12px;margin-top:4px;">Citation: published ACL version (Gao et al., 2024). The <a href="https://arxiv.org/abs/2406.14673">arXiv preprint</a> lists a different author order.</div>'
     image: ./assets/img/teaser-k&t.png
