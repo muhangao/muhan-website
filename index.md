@@ -10,8 +10,10 @@ Before coming to Texas A&M, I finished my master degree at Johns Hopkins Univers
 
 ## Research Interests
 
-- **LCLMs Evaluation**: LLM's long-context ability is more than simple retrieval, but how can we better evaluate and understand it? 
-- **Mechanistic Methods to Improve LLMs**: Can we understand long-context sequence processing internally, and how to improve it?
+My research aims to understand and improve how language models (LMs) search, organize, and reason over large bodies of information, with two connected threads:
+
+- **LMs for Scientific Research**: How do LMs explore and refine research ideas through feedback, and how can structured views of scientific literature help them find inspiration?
+- **Long-Context and Long-Horizon Reasoning**: How do LMs use, or fail to use, information as their context and trajectories grow? I study this through evaluation and mechanistic analysis.
 
 ## News
 
