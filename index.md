@@ -17,6 +17,7 @@ My research aims to understand and improve how language models (LMs) search, org
 
 ## News
 
+- **[Nov. 2026]** New preprint on LLM research ideation: [Re-Search: Dissecting LLM Ideation Through a Two-Player Questioning Game](https://arxiv.org/abs/2611.14487) is now on arXiv.
 - **[Jul. 2026]** Our paper about scientific literature hierarchies: [From Papers to Panoramas: Building Hierarchies of Scientific Literature at Scale](https://arxiv.org/abs/2504.13834) is accepted to COLM 2026.
 - **[May. 2026]** Our paper about long context and context rot: [The First Drop of Ink: Nonlinear Impact of Misleading Information in Long-Context Reasoning](https://arxiv.org/abs/2605.10828v1) is accepted to ICML 2026.
 - **[Aug. 2025]** Our paper about In-context learning: [ICL CIPHERS: Quantifying "Learning" in In-Context Learning via Substitution Ciphers](https://arxiv.org/abs/2504.19395) is accepted to EMNLP 2025.
