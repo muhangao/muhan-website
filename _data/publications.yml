@@ -1,6 +1,6 @@
 main:
   - title: "Re-Search: Dissecting LLM Ideation Through a Two-Player Questioning Game"
-    authors: <strong>Muhan Gao</strong>, Hangxiao Zhu, Xinqi Su, Yu Zhang, <a href="https://danielkhashabi.com">Daniel Khashabi</a>, <a href="https://khhuang.me/">Kuan-Hao Huang</a>
+    authors: <strong>Muhan Gao</strong>, Hangxiao Zhu, Xinqi Su, Yu Zhang, <a href="https://danielkhashabi.com">Daniel Khashabi</a><sup>†</sup>, <a href="https://khhuang.me/">Kuan-Hao Huang</a><sup>†</sup>
     conference_short: arXiv
     conference: arXiv preprint, 2026
     pdf: https://arxiv.org/abs/2611.14487
@@ -33,7 +33,7 @@ main:
     image: ./assets/img/teaser-cipher.png
     
   - title: "Insights into LLM Long-Context Failures: When Transformers Know but Don't Tell"
-    authors: <strong>Muhan Gao</strong>, <a href="https://taiminglu.com">TaiMing Lu</a>, Kuai Yu, Adam Byerly, <a href="https://danielkhashabi.com">Daniel Khashabi</a>
+    authors: <strong>Muhan Gao</strong><sup>*</sup>, <a href="https://taiminglu.com">TaiMing Lu</a><sup>*</sup>, Kuai Yu, Adam Byerly, <a href="https://danielkhashabi.com">Daniel Khashabi</a>
     conference_short: EMNLP
     conference: Empirical Methods in Natural Language Processing <strong>(EMNLP)</strong>, 2024, Findings
     pdf: https://aclanthology.org/2024.findings-emnlp.447/

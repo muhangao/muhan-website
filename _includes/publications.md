@@ -48,4 +48,5 @@
 {% endfor %}
 
 </ol>
+<p style="font-size:13px;color:#777;margin-top:-10px;"><sup>*</sup> Equal contribution &nbsp; <sup>†</sup> Equal advising</p>
 </div>
