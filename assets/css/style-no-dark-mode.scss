@@ -2,3 +2,24 @@
 ---
 
 @import "minimal-light-no-dark-mode";
+
+// Wider layout and larger type on desktop
+body {
+  font-size: 18px;
+}
+
+@media screen and (min-width: 961px) {
+  .wrapper {
+    width: auto;
+    max-width: 1200px;
+    padding: 0 32px;
+  }
+
+  header {
+    width: 260px;
+  }
+
+  section {
+    width: calc(100% - 320px);
+  }
+}
